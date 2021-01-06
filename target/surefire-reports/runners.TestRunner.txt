@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 29.716 sec <<< FAILURE! - in runners.TestRunner
+Then I should not be able to login(Scenario: User should not be able to login with account)  Time elapsed: 0.005 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<OrangeHRM[44]> but was:<OrangeHRM[]>
+
+Scenario: User should not be able to login with account  Time elapsed: 0.005 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<OrangeHRM[44]> but was:<OrangeHRM[]>
+
